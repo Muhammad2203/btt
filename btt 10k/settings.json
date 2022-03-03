@@ -13,7 +13,7 @@
     },
     "Target": {
         "Profit (amt)": "0",
-        "Profit (%)": "10",
+        "Profit (%)": "1",
         "Balance": "0",
         "Lose": "0"
     },
@@ -86,7 +86,7 @@
             "Toggle": "ON",
             "Profit Reset": "0.00000001",
             "Cut Lose": "0",
-            "Preroll": "50",
+            "Preroll": "100",
             "Multipler": "1.0333",
             "Chance Win": {
                 "Min": "70",
