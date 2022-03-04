@@ -1,7 +1,7 @@
 {
     "License": "Hubungi @SafarSyam",
     "Account": {
-        "Username": "muhammad2202",
+        "Username": "persen1",
         "Password": "Nuran2201"
     },
     "Play Game": {
@@ -28,9 +28,9 @@
         "Delay (sec)": "60"
     },
     "Auto WD": {
-        "Status": "OFF",
-        "Trigger Balance": "50000",
-        "Amount WD": "20000",
+        "Status": "ON",
+        "Trigger Balance": "700000",
+        "Amount WD": "150000",
         "Tip Username": "muhammad2201",
         "Wallet": {
             "Is Faucetpay": "false",
@@ -52,7 +52,7 @@
         "Hi / Low": {
             "Toggle": "ON",
             "If Lose": "1",
-            "If Win": "0"
+            "If Win": "1"
         }
     },
     "Bet Amount": {
@@ -86,7 +86,7 @@
             "Toggle": "ON",
             "Profit Reset": "0.00000001",
             "Cut Lose": "0",
-            "Preroll": "100",
+            "Preroll": "95",
             "Multipler": "1.0333",
             "Chance Win": {
                 "Min": "70",
